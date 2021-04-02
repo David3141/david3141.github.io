@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[610],{1251:function(e,t,n){"use strict";n.r(t);var a=n(7294),l=n(3652),u=n(3751);t.default=function(){return a.createElement(l.Z,null,a.createElement(u.Z,{title:"Music"}),a.createElement("h1",null,"Coming Soon..."))}}}]);
+//# sourceMappingURL=component---src-pages-music-js-ab314f2127a6e87c0a84.js.map
