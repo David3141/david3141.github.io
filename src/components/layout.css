@@ -18,6 +18,8 @@ body {
   -ms-font-feature-settings: "kern", "liga", "clig", "calt";
   -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
   font-feature-settings: "kern", "liga", "clig", "calt";
+  background: linear-gradient(to bottom right, white, #efefef);
+  min-height: 100vh;
 }
 article,
 aside,
